@@ -1,3 +1,2 @@
 console.log('some login features')
-Here are some text Version 1
-
+Here is my final text to resolve the conflict
